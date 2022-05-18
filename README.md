@@ -2,7 +2,7 @@
 Repositório criado para desafio de projeto.
 😎
 
-## **Links úteis
+## **Links úteis**
 [title](https://www.markdownguide.org/cheat-sheet/)
 
 ### FIM
